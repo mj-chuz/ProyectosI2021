@@ -7,7 +7,7 @@ Pequeña aplicación Cliente-Servidor para la transferencia de archivos por medi
 
 Para la compilación del programa del servidor ("servidor.cpp") lo que se tiene que hacer es escribir en la terminal 
 #### g++ servidor.cpp -o ejecutable
-Igualmente para la compilación del programa del cliente, solo es escribir lo siguiente en la terminal
+Igualmente para la compilación del programa del cliente ("cliente.cpp"), solo es escribir lo siguiente en la terminal
 #### g++ cliente.cpp -o ejec
 
 ## Ejecución de los programas
